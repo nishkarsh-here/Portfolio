@@ -3,6 +3,7 @@
 An award-tier personal portfolio built as a single, self-contained WebGL experience. The whole site is a living particle field that resolves from noise into structure as you descend through six chapters — a direct expression of the thesis: *turning messy, real-world data into intelligent systems.*
 
 **Live concept:** Signal → How I Think → The Work → The Question (EIEF) → Foundations → Signal Out.
+
 **Link:** https://my-portfolio-eight-pied-84.vercel.app/
 
 ---
