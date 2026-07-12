@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+# Python (JioPulse)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Streamlit secrets — never commit API keys
+.streamlit/secrets.toml
+# Vercel link + local env
+.vercel/
+.env
